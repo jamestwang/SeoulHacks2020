@@ -6,3 +6,4 @@ installation guide:
  5 run "node index.js"
  6 go to your browser
  7 type "localhost:3000" in the search bar
+https://socket.io/get-started/chat/ is the resource I used
